@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @cevateness
-- 👀 I’m interested in operations research, optimization and data science.
-- 🌱 I’m currently working on descriptive, predictive and  prescriptive data analysis using Python.
-- 💞️ I’m looking to collaborate on my experience on developing decision support programs on several well-known problems.
+- 👀 I’m an operations research, optimization and data scientist.
 - 📫 How to reach me ... www.linkedin.com/in/cevat-enes-
 
 
