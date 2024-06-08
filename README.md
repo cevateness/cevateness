@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cevateness
-- 👀 I’m an operations research, optimization and data scientist.
+- 👀 I’m an optimization and data scientist.
 - 📫 How to reach me ... www.linkedin.com/in/cevat-enes-
 
 
